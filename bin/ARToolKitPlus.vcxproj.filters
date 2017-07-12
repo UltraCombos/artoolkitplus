@@ -1,0 +1,168 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\Develop\0000_00\artoolkitplus\src\Camera.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Develop\0000_00\artoolkitplus\src\Tracker.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Develop\0000_00\artoolkitplus\src\TrackerMultiMarker.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Develop\0000_00\artoolkitplus\src\TrackerSingleMarker.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Develop\0000_00\artoolkitplus\src\core\arBitFieldPattern.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Develop\0000_00\artoolkitplus\src\core\arDetectMarker.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Develop\0000_00\artoolkitplus\src\core\arDetectMarker2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Develop\0000_00\artoolkitplus\src\core\arGetCode.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Develop\0000_00\artoolkitplus\src\core\arGetInitRot2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Develop\0000_00\artoolkitplus\src\core\arGetMarkerInfo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Develop\0000_00\artoolkitplus\src\core\arGetTransMat.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Develop\0000_00\artoolkitplus\src\core\arGetTransMat2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Develop\0000_00\artoolkitplus\src\core\arGetTransMat3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Develop\0000_00\artoolkitplus\src\core\arGetTransMatCont.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Develop\0000_00\artoolkitplus\src\core\arLabeling.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Develop\0000_00\artoolkitplus\src\core\arMultiActivate.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Develop\0000_00\artoolkitplus\src\core\arMultiGetTransMat.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Develop\0000_00\artoolkitplus\src\core\arMultiGetTransMatHull.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Develop\0000_00\artoolkitplus\src\core\arMultiReadConfigFile.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Develop\0000_00\artoolkitplus\src\core\arUtil.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Develop\0000_00\artoolkitplus\src\core\mPCA.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Develop\0000_00\artoolkitplus\src\core\matrix.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Develop\0000_00\artoolkitplus\src\core\paramDecomp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Develop\0000_00\artoolkitplus\src\core\paramDistortion.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Develop\0000_00\artoolkitplus\src\core\rppGetTransMat.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Develop\0000_00\artoolkitplus\src\core\rppMultiGetTransMat.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Develop\0000_00\artoolkitplus\src\core\vector.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Develop\0000_00\artoolkitplus\src\extra\BCH.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Develop\0000_00\artoolkitplus\src\extra\Hull.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Develop\0000_00\artoolkitplus\src\librpp\arGetInitRot2Sub.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Develop\0000_00\artoolkitplus\src\librpp\librpp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Develop\0000_00\artoolkitplus\src\librpp\rpp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Develop\0000_00\artoolkitplus\src\librpp\rpp_quintic.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Develop\0000_00\artoolkitplus\src\librpp\rpp_svd.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Develop\0000_00\artoolkitplus\src\librpp\rpp_vecmat.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\Develop\0000_00\artoolkitplus\include\ARToolKitPlus\ARToolKitPlus.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Develop\0000_00\artoolkitplus\include\ARToolKitPlus\Camera.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Develop\0000_00\artoolkitplus\include\ARToolKitPlus\Tracker.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Develop\0000_00\artoolkitplus\include\ARToolKitPlus\TrackerMultiMarker.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Develop\0000_00\artoolkitplus\include\ARToolKitPlus\TrackerSingleMarker.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Develop\0000_00\artoolkitplus\include\ARToolKitPlus\ar.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Develop\0000_00\artoolkitplus\include\ARToolKitPlus\arBitFieldPattern.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Develop\0000_00\artoolkitplus\include\ARToolKitPlus\arGetInitRot2Sub.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Develop\0000_00\artoolkitplus\include\ARToolKitPlus\arMulti.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Develop\0000_00\artoolkitplus\include\ARToolKitPlus\config.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Develop\0000_00\artoolkitplus\include\ARToolKitPlus\extra\BCH.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Develop\0000_00\artoolkitplus\include\ARToolKitPlus\extra\Hull.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Develop\0000_00\artoolkitplus\include\ARToolKitPlus\extra\rpp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Develop\0000_00\artoolkitplus\include\ARToolKitPlus\matrix.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Develop\0000_00\artoolkitplus\include\ARToolKitPlus\vector.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\Develop\0000_00\artoolkitplus\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{F7085DD6-CF09-329B-A4B3-8B31BA9C346D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{1FEB5D0D-EDB5-3433-9DE0-8E752E4FA43C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
